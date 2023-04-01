@@ -4,5 +4,7 @@ I plan to keep on refining it as I learn more concepts.<br />
 
 ## Updates <br />
 ### 1 April 2023 <br />
+* Amended resume page <br />
+* Added nav bar <br />
 
 
